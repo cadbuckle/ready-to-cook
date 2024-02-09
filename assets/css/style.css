@@ -1,0 +1,28 @@
+h1 {
+    background-color: blue;
+}
+
+nav p {
+  margin-bottom: 0;
+}
+
+body {
+  padding-top: 20px;
+}
+.navbar.navbar-inverse {
+  border: none;
+}
+.navbar .navbar-brand {
+  padding-top: 0px;
+}
+.navbar .navbar-brand img {
+  height: 50px;
+}
+
+.navbar-nav {
+  width: max-content;
+}
+
+a.navbar-brand {
+  padding-bottom: 0px;
+}
